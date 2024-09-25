@@ -1,0 +1,20 @@
+/* 그리드 배열 100개 */
+/* .container {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+.box {
+  width: 100px;
+  height: 100px;
+} */
+
+/* 1. 아메리카노 주문 버튼 태그 만들고 누르면 주문완료! 로바뀌는 버튼 만들기 */
+
+/* 2. 배경색이 하늘색 버튼 태그 만들고 누르면 핑크색으로 바뀌는 버튼 만들기 */
+
+/* 3. 버튼 다른색 5개 만들고 버튼 내용은 색깔 이름 넣어야함
+버튼을 누르면 아래 박스의 색깔로 바뀌어야 함. */
